@@ -1,0 +1,7 @@
+C:\Users\musta\Desktop\necati\courseservice\publish\courseservice.exe
+C:\Users\musta\Desktop\necati\courseservice\publish\appsettings.Development.json
+C:\Users\musta\Desktop\necati\courseservice\publish\appsettings.json
+C:\Users\musta\Desktop\necati\courseservice\publish\courseservice.dll
+C:\Users\musta\Desktop\necati\courseservice\publish\courseservice.deps.json
+C:\Users\musta\Desktop\necati\courseservice\publish\courseservice.runtimeconfig.json
+C:\Users\musta\Desktop\necati\courseservice\publish\courseservice.pdb

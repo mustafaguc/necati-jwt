@@ -1,0 +1,7 @@
+C:\Users\musta\Desktop\necati\platformservice\publish\platformservice.exe
+C:\Users\musta\Desktop\necati\platformservice\publish\appsettings.Development.json
+C:\Users\musta\Desktop\necati\platformservice\publish\appsettings.json
+C:\Users\musta\Desktop\necati\platformservice\publish\platformservice.dll
+C:\Users\musta\Desktop\necati\platformservice\publish\platformservice.deps.json
+C:\Users\musta\Desktop\necati\platformservice\publish\platformservice.runtimeconfig.json
+C:\Users\musta\Desktop\necati\platformservice\publish\platformservice.pdb

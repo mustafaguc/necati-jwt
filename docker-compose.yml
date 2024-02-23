@@ -1,0 +1,36 @@
+version: "3.7"
+
+services:
+  nginxservice:
+    container_name: nginxservice
+    restart: unless-stopped
+    build: nginx/
+    ports:
+      - "80:80"
+    env_file: .env
+    volumes:
+      - ./nginx:/etc/nginx/conf.d
+
+  platformservice:
+    container_name: platformservice
+    restart: unless-stopped
+    build: platformservice/
+    ports:
+      - "8000:8000"
+    env_file: .env
+
+  courseservice:
+    container_name: courseservice
+    restart: unless-stopped
+    build: courseservice/
+    ports:
+      - "8001:8001"
+    env_file: .env
+
+  authservice:
+    container_name: authservice
+    restart: unless-stopped
+    build: authservice/
+    ports:
+      - "8002:8002"
+    env_file: .env

@@ -1,0 +1,7 @@
+C:\Users\musta\Desktop\necati\authservice\publish\authservice.exe
+C:\Users\musta\Desktop\necati\authservice\publish\appsettings.Development.json
+C:\Users\musta\Desktop\necati\authservice\publish\appsettings.json
+C:\Users\musta\Desktop\necati\authservice\publish\authservice.dll
+C:\Users\musta\Desktop\necati\authservice\publish\authservice.deps.json
+C:\Users\musta\Desktop\necati\authservice\publish\authservice.runtimeconfig.json
+C:\Users\musta\Desktop\necati\authservice\publish\authservice.pdb
